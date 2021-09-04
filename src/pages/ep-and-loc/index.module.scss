@@ -1,0 +1,19 @@
+.episodes {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+.wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.gridWrapper {
+    margin: 10px auto;
+    width: 802px;
+    height: 1155px;
+    background-color: rgba(173, 173, 173, 0.753);
+}
